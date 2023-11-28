@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aquamarine;
+    width: 600px;
+    border: 2px solid black;
+}
+
+h1#heading {
+    color: beige;
+}
+
+#heading {
+    color: brown;
+}
+
+.text.text{
+   color: green;
+}
+
+body h1.text{
+    color: yellow;
+}
+
+html + body h1 {
+    color: black;
+}
+
+body h1 {
+    color:black;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    color: crimson;
+}
+
